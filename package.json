@@ -1,0 +1,12 @@
+{
+  "name": "qrconvert_project",
+  "version": "1.0.0",
+  "description": "This is a project to turn links into a qr code!",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Maninang",
+  "license": "ISC"
+}
