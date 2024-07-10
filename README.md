@@ -1,2 +1,2 @@
 # qrconvert_project
-here is some test stuff
+This project uses the inquirer and qr-image package npm packages to convert a url link into a qr code.
